@@ -1,4 +1,4 @@
-#By @robocyber
+#By github.com/humblelad
 #Contributions welcome!
 
 #Enter your credentials
